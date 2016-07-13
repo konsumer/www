@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/icon?family=Roboto|Material+Icons');
+
+html, body {    
+  padding: 0;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+header {
+  background: url(img/lil-jetboy.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+
+  h1, h2 {
+    font-weight: normal;
+    margin: 0;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  }
+
+  h1 {
+    letter-spacing: 8px;
+    font-size: 50px;
+    line-height: 55px;
+  }
+
+  h2 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+}
+
+section {
+  max-width: 1024px;
+  margin:auto;
+  padding: 20px;
+}
