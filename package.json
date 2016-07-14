@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "npm run build && node src/server.js",
-    "build": "node-sass src/site.scss > pub/site.css"
+    "start": "npm run build:css && node src/server.js",
+    "build:css": "node-sass --output-style compressed src/site.scss > pub/site.css"
   },
   "dependencies": {
     "express": "^4.13.4",
