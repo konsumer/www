@@ -2,4 +2,4 @@
 site.css
 node_modules
 *.log
-pub/bundle.js
+pub/site.css
