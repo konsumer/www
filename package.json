@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "npm run build:css && node src/server.js",
-    "build:css": "node-sass --output-style compressed src/site.scss > pub/site.css"
+    "build:css": "node-sass --output-style compressed src/site.scss -o pub",
+    "dev": "open pub/index.html && node-sass -w src/site.scss -o pub"
   },
   "dependencies": {
     "express": "^4.13.4",
