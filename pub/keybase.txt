@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/konsumer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jetboystudio.com
+  * I am konsumer (https://keybase.io/konsumer) on keybase.
+  * I have a public key with fingerprint 511A 00DA 737A 4120 81FB  0E3F A72D B62D 41CC C68A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010122fab5999249004a1af73737bd305cdb263c02ce2caacdcf80f1b743b023ba0b0a",
+            "fingerprint": "511a00da737a412081fb0e3fa72db62d41ccc68a",
+            "host": "keybase.io",
+            "key_id": "a72db62d41ccc68a",
+            "kid": "010122fab5999249004a1af73737bd305cdb263c02ce2caacdcf80f1b743b023ba0b0a",
+            "uid": "7918a84b21635f7dfb0b36f5a7c3c600",
+            "username": "konsumer"
+        },
+        "revoke": {
+            "sig_ids": [
+                "16899bef0bc12075be3515e00775c56fe65378dd15fa8d0e064025c75305b1c10f"
+            ]
+        },
+        "service": {
+            "hostname": "jetboystudio.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470913181,
+    "expire_in": 157680000,
+    "prev": "b8a4761e61ee3661b90c92426eb47936ef2567689bc3f84c55265797d00f632b",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMOLAnicrZJ7UBZVGMa/D5ABhA9hLKXIdA1pgOjsfZcw5dIYxVXDFE3cs3sWl8u3
+8F1AUgQVHMFqJEWIEogpuwzCSIx3TRErpTBEJiZ0vEA6kBZiqDChnWXsv/5sz86c
+ObvP87y/857T4eNq8jL/7vftQ/PtwGRz5+kHTtPbTWl7NxBQVwqJiA1EFpqaULaC
+7I70LE0hIghAApKiVAmyoihSjAgAI5GSytN4QIUGrKxAiqNlQMmIkiVJVmRVACoJ
+eYaGgKKhBCCQiDBC1awZyJZr06wOHMuSpASAIuEUiSEpIJAqBIhWJZ5SIEcpDCnL
+MicYxnW63XBgOCjZUbim4294kT6F9x/6/5nbORXHi6QgCQykSI5mVV7BtJDmVFbi
+ZVrmADCEdmSzSjnIYNWtdmcOshFFYYQN5etZyOirXcvA0HYiYhVBcoIoQqQCKOPN
+8yxENEuyCACeZ2WWUxHH0rygKCSrSoICEOAYQLEyz2JwSMokUIl3cDaumK/JU+FG
+l55Uz0QOqBfaHU5F08NlPQez5dp0hy7r2fjvOocjN8IAcxTmGuoCBNOf5KRDzarg
+Y8KGfGSza7qViCCxUnZoRjDJ8EAkaVIgwwi0PlezoXTNULA8JwD8GGVQPo6EgsTw
+HInwi2iOI6EIZHwGFIcgw4s0h1SK5bBJhDKtCozMshTH8iKvAKByNAUJY2d5Vh1n
+C5hTysCZuHlWyeG0IaKo/fRqN5PZy+Q+zcW4vyYvzxn/3mrPVt/JOcWNXQ1r5/eN
+bB67eXA3F7XkjPTVpM/l5KTy6P6EOwmdR7zPJzXHtL+QYUkNbvFfsaa3Cj03RlVU
+t3l891T/zSanZWf3uWFH5Gjnnr3lUdXxpw7vuta4Z8ew9/N/Mh71I5nFD3oGWuPM
+swOXr/1+VtVPvTXE4MVfD6W1++WU1KG5SaMFJ2aPtk0e/TuovKY5+VjVUVdQ9t7K
+w4uCqwsOlaFl0UFvNm29xoemn53k13a8v/ly0R+HzIF3d6SkXFi8alOieeOJVLcK
+l5GWjq/nnFtP3DZN/PWjpS3w4/pnkn55mOSbsOm6ZQtxwZkJt6UGLIl3e23alq5m
+saF7f8NVW0jfF2lX05YON4zvKuw4kPNzycwV9jtF9OmDHi3W2NDaqBb/vIGFpe7V
+FW39PjMWFG/HvuYfeIVJaYsc2bn92cRXWme9nnV9UWV3WvzAoGz5fIuLxd17ut+l
+Y8HedX6fVvs29bxx68A8l09m+rZND1ode+ne/IkU/eLJjeP0lfqaAE1ZHg56ln0W
+XR/68pFB6D4899TTJ7q6hmPOJqw87t/4bsiHj7it+/vddh8Pq4S9VckL1ri/6H/f
+Z/9HH8Rml7VED1WWhP/20rYz994KEBtiHk+cX5iixo233zo2ludV13e/tb00ufCb
+w8pj177FjTdS9+XAK3WoKi6x1rN0X23IqzdOZgXGDEUOfbn0Ucvdh/8Aeb/eJg==
+=YaRF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/konsumer
+
+==================================================================
